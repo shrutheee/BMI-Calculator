@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  padding-left: 300px;
+  align-items: center;
+  height: 100vh;
+  background-color: #135ea9;
+  background-image: url(im.jpg);
+  background-size: cover;
+}
+
+.calculator {
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #050505;
+  border-radius: 5px;
+  background-color: #ce93c8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.result {
+  font-weight: bold;
+}
